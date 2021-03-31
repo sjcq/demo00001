@@ -7,3 +7,6 @@
 .idea/misc.xml
 .idea/vcs.xml
 gitdemo01.iml
+src/main/resources/
+src/test/
+target/
